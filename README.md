@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 😄 As a hobby, I share movie edits and movie scenes using adobe programs on my own Instagram page called anamorphicmovie.
 
-- ⚡ In my spare time, I solve algorithm questions on sites such as hackerrank and leetcode. I will open a youtube channel where I explain the questions I have solved recently.
+- ⚡ In my spare time, I solve algorithm questions on sites such as hackerrank and leetcode. I will open a youtube channel soon where I explain the questions I have solved.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
