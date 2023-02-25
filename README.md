@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am 23 years old. I am a 4th year student at Akdeniz University, Department of Management Information Systems.
 
-- 🔭 I’m currently working for Enqura Information Technologies as a junior software developer.
+- 🔭 I worked as a back-end developer for 4 months at a company called İksirSoft when I was in my 3rd year at university. I’m currently working for Enqura Information Technologies as a junior software developer.
 
 - 🌱 I’m currently learning **Data structures, algorithms, Angular, .NET core, entity framework and other front-end, back-end technologies.**
 
