@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Oguz.</h1>
-<h3 align="center">A curious full stack developer.</h3>
+<h3 align="center">A curious software developer.</h3>
 
-- 🌱 I’m currently learning **Angular and other front-end technologies.**
+- 🔭 I’m currently working for Enqura Information Technologies as a junior software developer.
 
-- 💬 Ask me about **.net core, C#,**
+- 🌱 I’m currently learning **Data structures, algorithms, Angular, .NET core, entity framework and other front-end, back-end technologies.**
 
-- 📫 How to reach me **oakcay01@hotmail.com**
+- 📫 You can reach me on **oakcay01@hotmail.com**
+
+- 😄 As a hobby, I share movie edits and movie scenes using adobe programs on my own Instagram page called anamorphicmovie.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
