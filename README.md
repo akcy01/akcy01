@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Oguz.</h1>
 <h3 align="center">A curious software developer.</h3>
 
+- 🌱 I am 23 years old. I am a 4th year student at Akdeniz University, Department of Management Information Systems.
+
 - 🔭 I’m currently working for Enqura Information Technologies as a junior software developer.
 
 - 🌱 I’m currently learning **Data structures, algorithms, Angular, .NET core, entity framework and other front-end, back-end technologies.**
@@ -25,6 +27,8 @@ Here are some ideas to get you started:
 - 📫 You can reach me on **oakcay01@hotmail.com**
 
 - 😄 As a hobby, I share movie edits and movie scenes using adobe programs on my own Instagram page called anamorphicmovie.
+
+- ⚡ In my spare time, I solve algorithm questions on sites such as hackerrank and leetcode. I will open a youtube channel where I explain the questions I have solved recently.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
