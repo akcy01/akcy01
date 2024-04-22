@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I worked as a back-end developer for 4 months at a company called İksirSoft when I was in my 3rd year at university. I’m currently working for Enqura Information Technologies as a software developer.
 
-- 🌱 I’m currently learning **Data structures, algorithms, Angular, .NET core, entity framework and other front-end, back-end technologies.**
+- 🌱 I’m currently working with **Data structures, algorithms, Angular, .NET core, entity framework and other front-end, back-end technologies.**
 
 - 📫 You can reach me on **oakcay01@hotmail.com**
 
