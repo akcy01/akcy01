@@ -45,4 +45,7 @@ Here are some ideas to get you started:
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </a>
+    <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/14800902?s=280&v=4" alt="dapper" width="40" height="40"/>
+</a>
 </p>
