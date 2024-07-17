@@ -44,8 +44,4 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-</a>
-    <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/14800902?s=280&v=4" alt="dapper" width="40" height="40"/>
-</a>
 </p>
