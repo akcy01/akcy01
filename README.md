@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Oguz.</h1>
-<h3 align="center">A curious software developer.</h3>
+<h1 align="center">Oguz Akcay</h1>
+<h3 align="center">A curious Software Engineer.</h3>
 
 - 💬 I am 24 years old. I am a Software Engineer.
 
