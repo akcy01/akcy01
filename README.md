@@ -18,17 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Oguz Akcay</h1>
 <h3 align="center">A curious Software Engineer.</h3>
 
-- 💬 I am 24 years old. I am a Software Engineer.
+25 years old, a software engineer in love with software.
 
-- 🔭 I worked as a back-end developer for 4 months at a company called İksirSoft when I was in my 3rd year at university. I’m currently working for Enqura Information Technologies as a software developer.
-
-- 🌱 I’m currently working with **Data structures, algorithms, Angular, .NET core, entity framework, dapper and other front-end, back-end technologies.**
-
-- 📫 You can reach me on **oakcay01@hotmail.com**
-
-- 😄 As a hobby, I share movie edits and movie scenes using adobe programs on my own Instagram page called anamorphicmovie.
-
-- ⚡ In my spare time, I solve algorithm questions on sites such as hackerrank and leetcode. I will open a youtube channel soon where I explain the questions I have solved.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
