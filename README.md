@@ -37,4 +37,7 @@ Here are some ideas to get you started:
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
+    <a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/boringicons/boring-avatars/main/examples/svg/dapper.svg" alt="dapper" width="40" height="40"/>
+</a>
 </p>
